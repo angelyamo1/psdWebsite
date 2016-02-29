@@ -293,21 +293,17 @@ i{
 }
 
 footer{
-	height:270px;
-}
-
-.footerbg{
 	background-color:#9b59b6;
 	height:240px;
 	width:1200px;
 	position:absolute;
-	margin-top:30px;
 }
 
 .sitebox{
 	margin-left:120px;
 	height:100px;
 	width:1000px;
+	margin-top:-30px;
 }
 
 .site{
@@ -348,7 +344,8 @@ footer p{
 }
 
 .p2{
-	margin-left:602px;
+	margin-left: 582px;
+    margin-right: 0px;
 }
 
 @font-face{
